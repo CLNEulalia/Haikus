@@ -15,20 +15,20 @@ must fork it, make changes to your fork, and then send a pull request to the
 owners of this repository:
 
 1. Fork and clone this repository.
-1. Change into the new directory.
+1. Change into the new directory and create a development branch to work on. 
 1. Fulfill the listed requirements.
 
 When you have fulfilled the requirements below, make a pull request on this
 repository to turn in your work.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
+the next morning by 10:00am ET.
 
 ## Requirements
 
 Work through the following instructions:
 
-1. Open the current directory in your text editor (`code .` or `atom .`).
+1. Open the current directory in your text editor (`code .`).
 1. Create a text file named `your_gh_username.txt`, e.g. `nickolds.txt`.
 1. Write a haiku on a topic of your choice, commit your changes, and push those
    changes with `git push`.
