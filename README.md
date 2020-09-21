@@ -24,6 +24,14 @@ repository to turn in your work.
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 10:00am ET.
 
+### Prep for HTML & CSS
+
+1. Once you've completed the requirements review what you learned during the prework so you're ready for the HTML & CSS lectures:
+- [HTML Intro (tags, content, attributes, semantic HTML)](https://www.youtube.com/watch?v=DxhXFpsN5I4&index=1&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [HTML Elements (headers, navigation, lists, sections, etc.) and Media (images, audio, videos)](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [CSS Intro (including css files in HTML, elements)](https://www.youtube.com/watch?v=xWiT2TWCFjc&index=3&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [CSS Basics (colors, background, font properties)](https://www.youtube.com/watch?v=UMMHsQPmfug&index=4&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+
 ## Requirements
 
 Work through the following instructions:
