@@ -2,7 +2,7 @@
 
 # Haiku
 
-Practice working with git!
+Practice working with git! 
 
 ## Prerequisites
 
